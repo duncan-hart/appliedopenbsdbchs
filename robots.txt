@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://appliedopenbsd.com/sitemap.xml
