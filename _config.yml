@@ -4,6 +4,7 @@ description: Proactively secure web application development using the BCHS (Open
 
 # User settings
 username: Applied OpenBSD
+user_title: Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack.
 user_description: Join us in our public chatroom public@conference.appliedopenbsd.com (UTC / Zulu +10)
 
 # Google-analytics
