@@ -1,6 +1,6 @@
 # Site settings
 title: Applied OpenBSD
-description: Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack.
+description: "Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack."
 
 # User settings
 username: Applied OpenBSD
