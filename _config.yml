@@ -4,11 +4,7 @@ description: Proactively secure web application development using the BCHS (Open
 
 # User settings
 username: Applied OpenBSD
-user_description: Join us in our public chatroom public@conference.appliedopenbsd.com (UTC / Zulu +10)
+user_description: Tel: +61 3 7065 5840 | Email: Puffy@AppliedOpenBSD.Com | Join us in our public chatroom public@conference.appliedopenbsd.com | (UTC / Zulu +10)
 user_title: Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack.
-
-# Google-analytics
-google-analytics:
-  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
