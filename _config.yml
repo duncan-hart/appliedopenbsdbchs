@@ -3,6 +3,6 @@ title: Applied OpenBSD
 description: Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack.
 # User settings
 username: Applied OpenBSD
-user_description: "Email: Duncan@AppliedOpenBSD.Com | Public chatroom: Public@Conference.AppliedOpenBSD.com | Timezone: Australia/Melbourne UTC+10 or UTC+11"
+user_description: "Email: Duncan@AppliedOpenBSD.Com | Timezone: Australia/Melbourne UTC+10 or UTC+11"
 user_title: Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack.
 exclude: ['package.json', 'src' , 'node_modules']
