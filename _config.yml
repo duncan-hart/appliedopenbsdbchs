@@ -1,8 +1,8 @@
 # Site settings
 title: Applied OpenBSD
-description: Proactively secure application development and consultancy using the BCHS (OpenBSD, C, httpd, SQLite) software stack for IBM POWER9 platforms.
+description: Proactively secure application development and consultancy for IBM Power platforms.
 # User settings
 username: Applied OpenBSD
 user_description: "Email: Duncan@AppliedOpenBSD.Com | Timezone: Australia/Melbourne UTC+10 or UTC+11"
-user_title: Proactively secure application development and consultancy using the BCHS (OpenBSD, C, httpd, SQLite) software stack for IBM POWER9 platforms.
+user_title: Proactively secure application development and consultancy for IBM Power platforms.
 exclude: ['package.json', 'src' , 'node_modules']
