@@ -6,3 +6,4 @@ username: Applied OpenBSD
 user_description: "Duncan@AppliedOpenBSD.Com | +61 3 7065 5840 | PO Box 530, South Yarra, VIC 3141, Australia"
 user_title: Proactively secure application development and consultancy for IBM Power platforms.
 exclude: ['package.json', 'src' , 'node_modules']
+include: [".well-known"]
